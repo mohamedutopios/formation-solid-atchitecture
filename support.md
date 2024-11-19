@@ -551,11 +551,39 @@ footer: "Utopios® Tous droits réservés"
 ### **Diagramme de tension**
 
 </div>
+<br/>
+
+<div style="font-size:25px">
+
+- Un **diagramme de tension** est un outil visuel utilisé pour représenter les forces contradictoires ou complémentaires qui influencent les décisions architecturales ou de conception dans un système logiciel. 
+- Ces tensions résultent souvent de compromis nécessaires pour répondre à des exigences conflictuelles, comme la modularité, la simplicité, la testabilité ou la flexibilité.
+
+- Il est particulièrement utile lorsqu'on applique des **principes de conception logicielle**, comme les principes **SOLID**, pour évaluer l'impact des choix architecturaux.
+
+</div>
 
 
-<div style="font-size:20px">
+---
 
+### Appliquer les principes SOLID aux modules d’une application
 
+<br/>
+
+<div style="font-size:30px">
+
+### **Composantes d’un diagramme de tension**
+
+</div>
+<br/>
+
+<div style="font-size:25px">
+
+1. **Axes de tension** : Chaque axe représente une exigence ou une qualité souhaitée, comme :
+   - **Simplicité** : Réduction de la complexité.
+   - **Modularité** : Séparation des responsabilités en composants indépendants.
+   - **Flexibilité** : Capacité à s'adapter facilement aux changements.
+   - **Testabilité** : Facilité à isoler et tester des parties du système.
+   - **Complexité** : Effort nécessaire pour comprendre et maintenir le système.
 
 </div>
 
